@@ -1,0 +1,4 @@
+[submodule "QiemDev.github.io"]
+	path = QiemDev.github.io
+	url = https://github.com/QiemDev/QiemDev.github.io.git
+	branch = -f
